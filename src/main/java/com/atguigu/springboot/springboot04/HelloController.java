@@ -16,6 +16,7 @@ public class HelloController {
         return "Hello World";
     }
 
+
     //@ResponseBody
     @RequestMapping("/success")
     public String success(Model model){
