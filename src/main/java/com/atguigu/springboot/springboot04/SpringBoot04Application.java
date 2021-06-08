@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBoot04Application {
 
     public static void main(String[] args) {
+
+
         SpringApplication.run(SpringBoot04Application.class, args);
     }
 
